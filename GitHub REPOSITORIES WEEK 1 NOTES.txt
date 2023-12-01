@@ -1,0 +1,27 @@
+GitHub REPOSITORIES WEEK 1 NOTES
+
+Describe the purpose of source repositories. : 
+	- Distributed version contol system.
+	- Tracks and controls source code during development.
+	- Supports non-liniar work flows.
+	- Centralized administration.
+
+
+Explain how GitHub satisfies the needs of a source repository. :
+	- Online hosting service for git repositories
+
+Explain how to sign up for a GitHub account. :
+	- quick sign up on github website
+	- verify account in email
+
+Describe how to create a repository. :
+	- click create a repository
+	- name it
+	- write short description
+	- add licence
+	- choose public or private 
+		* Code | Issues | Pull Request | Projects | Wiki | Security | Insights | Settings
+		* repositories are storage strusctures that hold code, track issues and enable 			  you to collaborate with others.
+
+
+
